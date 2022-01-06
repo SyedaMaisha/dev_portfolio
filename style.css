@@ -1,0 +1,122 @@
+.body-footer{
+    padding: 10px 150px 10px;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.heading{
+    font-size: 70px;
+    padding-left: 5%;
+    border-left: 5px solid #6f62bb;
+    height: 30%;
+}
+p{
+    font-size: large;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+.color{
+    color: cornflowerblue;
+}
+.banner{
+    display: flex;
+    margin-bottom: 100px ;
+}
+.text{
+    padding-top: 50px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 80%;
+    padding-left: 150px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#2dc2c7,#56b5db);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: large;
+}
+.flex-container{
+    display: flex;
+    margin-left: 3%;
+    margin-bottom: 150px;
+}
+.h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+.box{
+    font-size: 16px;
+    width: 200%;
+    margin-left: 15px;
+    padding: 5px 25px 5px 25px;
+    border-radius: 20px;
+}
+.box img{
+    width: 50%;
+}
+.b1{
+    background-color: #ffe6e6 ;
+}
+.b2{
+    background-color: #e6eeff;
+}
+.b3{
+    background-color: #ccffcc;
+}
+
+.limit{
+    display: flex;
+    margin-bottom: 150px ;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: 17%;
+    
+}
+.limit_text img{
+    width: 80%;
+    margin-left: 10%;
+    padding-left: 5px;
+}
+.dev{
+    font-size: 25px;
+}
+.community{
+    display: flex;
+    margin-bottom: 150px ;
+}
+footer {
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+    width: auto;
+    background-color: black;
+    text-align: center;
+}
+.h2{
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+.col{
+    color: red;
+}
+.bg{
+    background-image: url(images/shapes/shape-5.png), url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-position:left top, right bottom;
+    background-size: 50%;
+}
